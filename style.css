@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    margin-top: 10rem;
+}
+
+.tracking{
+    background-color: yellow;
+}
+
+.button{
+    background-color: gainsboro;
+    border: 2px solid gray;
+    color: black;
+    padding: 20px 100px;
+    width: 400px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 4px;
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#track{
+    background-color: goldenrod;
+}
